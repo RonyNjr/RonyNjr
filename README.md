@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou **Rone**, estudante de **Ciências da Computação** na [Faculdade Descomplica](https://descomplica.com.br).
+Sou **Rony Rubenval**, estudante de **Ciências da Computação** na [Faculdade Descomplica](https://descomplica.com.br).
 
 💻 Tenho experiência em **HTML**, **CSS** e **JavaScript**  
 🚀 Sempre aprendendo e desenvolvendo novos projetos
