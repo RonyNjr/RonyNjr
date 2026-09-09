@@ -1,12 +1,13 @@
 # Olá! 👋
 
-Sou **Rony Rubenval**, estudante de **Ciências da Computação** na [Faculdade Descomplica](https://descomplica.com.br).
+Sou **Rony Rubenval**, estudante de Ciência da Computação e desenvolvedor de software.
 
-💻 Tenho experiência em **HTML**, **CSS** e **JavaScript**  
-🚀 Sempre aprendendo e desenvolvendo novos projetos
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,docker,rust" />
+</p>
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+</p>
 
-📫 Como me encontrar:  
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/RonyNjr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronyrubenval/)
+📫 [GitHub](https://github.com/RonyNjr) · [LinkedIn](https://www.linkedin.com/in/ronyrubenval/)
