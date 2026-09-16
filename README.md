@@ -3,7 +3,7 @@
 Sou **Rony Rubenval**, estudante de Ciência da Computação e desenvolvedor de software.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,docker,java" />
 </p>
 
 <p align="left">
